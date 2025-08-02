@@ -1,0 +1,32 @@
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+python train_on_poisoned_set.py -dataset=cifar10 -poison_type=badnet -poison_rate=0.2
+
+
